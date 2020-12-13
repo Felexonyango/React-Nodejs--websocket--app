@@ -1,0 +1,16 @@
+.infobar{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:blue;
+    border-radius: 4px 4px 0 0;
+   border-image-width: auto;
+}
+.leftInnerContainer{
+    flex:0.5;
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    color:white;}
+

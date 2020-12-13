@@ -1,0 +1,34 @@
+.backgroundLight{
+
+background: #f3f3f3;
+}
+.backgroundDark{
+    background: #2979f2;
+}
+.colorDark{
+    color: #353535;
+}
+.colorWhite{
+    color: white;
+}
+.justifyEnd{
+    justify-content: flex-end;
+}
+.justifyStart{
+    justify-content: flex-start;
+}
+.pr-10{
+
+    padding-right: 10px;
+}
+.messageText{
+    widows: 100%;
+    float: left;
+    letter-spacing: 0;
+    font-size: 1.2em;
+    word-wrap: break-word;
+}
+.messageText img{
+vertical-align: middle;
+
+}
